@@ -2,7 +2,7 @@
 
 ## Overview of Pewlett Hackard Analysis:
 
-The purpose of this analysis is to use SQL to assess the number of retiring employees at Pewlett Hackard, their job titles, identify employees eligible for mentorship after the silver tsunami.
+The purpose of this analysis is to use SQL to assess the number of retiring employees at Pewlett Hackard, their job titles, and identify employees eligible for mentorship after the silver tsunami.
 
 ## Results:
 
